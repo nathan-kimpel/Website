@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "52.88.136.190",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "Production SQL",
+            "group": "Production SQL",
+            "database": "evicentral",
+            "username": "sa",
+            "password": "Weather01!"
+        }
+    ]
+}
